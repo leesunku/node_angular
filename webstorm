@@ -1,5 +1,4 @@
 Nodejs - Windows에서 node.js 개발을 위한 WebStorm 환경 설정 하기
-
 webStorm install
 
 웹스톰은 javascript에 적합한 IDE이다.
@@ -20,3 +19,9 @@ jet brains 에서 만든 ide이며, 유료이다. 무료 30일 버전으로 작�
 
 웹스톰 
  - 최고의 Web IDE인 WebStorm은 node.js와 front-end 개발 모두에 적합하다.
+ front-end 개발 모두에 적합하다.
+
+웹스톰 실행하면, node.js express app 생성하기가 있다.
+express 프레임워크로 프로젝트 생서하고 run 하면, 서버가 올라가며
+브라우져에서 http://localhost:3000/ 요청시, 웰컴...이라는 메시지를 본다면
+웹스톰 + node 환경 구축은 완료되었다.
