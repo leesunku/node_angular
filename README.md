@@ -9,3 +9,7 @@ javascript IDE webStorm install
 node.js install
 
 => https://nodejs.org/en/
+
+웹스톰에서 깃 설정
+
+=> https://github.com/leesunku/node_angular/blob/master/github
