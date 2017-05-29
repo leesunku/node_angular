@@ -1,1 +1,22 @@
 Nodejs - Windows에서 node.js 개발을 위한 WebStorm 환경 설정 하기
+
+webStorm install
+
+웹스톰은 javascript에 적합한 IDE이다.
+
+jet brains 에서 만든 ide이며, 유료이다. 무료 30일 버전으로 작성한다.
+다운로드 url = https://www.jetbrains.com/kr/webstorm/download/download-thanks.html
+
+웹스톰에서 node.js 설정
+
+1.웹스톰 실행 -> 새 프로젝트 생성
+2. file > setting > languages and frameworks > node.js and npm 클릭하면, 경로 자동 
+
+설정한다.[안되면 node.exe 찾아 잡아준다.
+3. Languages and Frameworks > Javascript > Libraries 에서 node.js관련된 항목이 모
+
+두 check되어 있는 것을 확인
+
+
+웹스톰 
+ - 최고의 Web IDE인 WebStorm은 node.js와 front-end 개발 모두에 적합하다.
