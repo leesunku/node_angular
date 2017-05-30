@@ -13,3 +13,15 @@ node.js install
 웹스톰에서 깃 설정
 
 => https://github.com/leesunku/node_angular/blob/master/github
+
+
+
+
+
+keyword set
+boilerplate - npm, generator, yeoman, mean.js
+making components - ide
+build - gulp, grunt, webpack
+unit test - mocha, karma
+running server - node.js, lite-server, webpack-dev-server
+deploy - git, aws-cli
