@@ -1,0 +1,20 @@
+directive란?
+ - dom을 다루기 위한 모든 것
+
+
+Structural directive
+ - dom 요소를 추가,삭제등 화면의 구조를 변경할 때 사용
+ - ngIf, ngFor
+ - 태그명, 속성, 클래스명, 주석까지 4개로 표현 사용됨
+ - dom 을 직접 조작하는데 사용
+
+Attribute directive
+ - dom 의 모습이나 동작을 조작하는데 사용
+
+Component
+ - @Component 데코레이터는 @Directive에 template이 포함 확장된 형태로 구현
+ - 지시자는 Dom을 다루는 데 필요한 모든 것이다.
+ - Component는 지시자들의 조합으로 구성
+ - 이런 Component들이 모여 어플리케이션이 된다.
+
+
